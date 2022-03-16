@@ -1,0 +1,8 @@
+@import './App.css';
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap/dist/js/bootstrap";
+@import "./components/Search/Search";
+@import "./components/Card/Card";
+@import  "./components/Pagination/Pagination";
+@import "./components/Filter/Filter";
+@import "./components/Navbar/Navbar";
