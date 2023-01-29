@@ -1,4 +1,4 @@
-# S3x-Offenders-Registry-:kenya: Version1
+# S3x-Offenders-Registry-:kenya: V.1
 
 Open database of all sexual offenders charged in Kenya-coordinated by the Department of Justice—enables every citizen to search the latest information from all 47 counties, for the identity and location of known sex offenders.
 
